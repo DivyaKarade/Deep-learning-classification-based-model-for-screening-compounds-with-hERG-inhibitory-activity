@@ -2,7 +2,7 @@
 
 Developing a Deep learning classification-based model for screening pharmaceutical compounds with hERG inhibitory activity (cardiotoxicity) and using the model to screen CAS antiviral database to identify compounds with cardiotoxicity potential.  
 
-The data is derived from "Drug Discovery Hackathon 2020: PS ID: DDT2-13" (https://innovateindia.mygov.in/ddh2020/problem-statements/)  
+The data is taken from "Drug Discovery Hackathon 2020: PS ID: DDT2-13" (https://innovateindia.mygov.in/ddh2020/problem-statements/)  
 
 Details related to the project can also be derived from: (https://youtu.be/7tqaPmYQmCM)  
 
